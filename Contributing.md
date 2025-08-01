@@ -18,4 +18,7 @@ We welcome bug reports, feature requests, documentation fixes, and code contribu
    ```bash
    git checkout -b feature/your-feature-name
 ## Code of Conduct:
--Refer to 
+-Refer to our [Code of Conduct](https://github.com/ShizzaRazzaq/GitHub-Final-Project/blob/main/CODE_OF_CONDUCT.md) to identify acceptable and unacceptable behaviour!
+
+## Contact:
+- Reach out at [My Github](https://github.com/ShizzaRazzaq)
